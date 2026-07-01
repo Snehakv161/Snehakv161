@@ -80,8 +80,8 @@
 <p align="center">
 
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sneha-kv-a2b491303/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
